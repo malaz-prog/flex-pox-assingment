@@ -7,6 +7,7 @@ h2{
     background-color:rgb(251, 247, 247);
 }
 .CONTANER{
+     background-image: url(./pexels-wdnet-96627.jpg);
     height: 100vh;
     display: flex;
     flex-direction: row;
@@ -14,5 +15,6 @@ h2{
     align-items: center;
     gap: 20px;
     text-align: center;
+
 
 }
